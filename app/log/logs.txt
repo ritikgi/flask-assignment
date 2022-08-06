@@ -1,0 +1,17 @@
+/opt/homebrew/bin/python3: can't open file '/Users/peeyushs/Code/assignment/index.py': [Errno 2] No such file or directory
+/opt/homebrew/bin/python3: can't open file '/Users/peeyushs/Code/assignment/index.py': [Errno 2] No such file or directory
+ * Serving Flask app 'app' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8096
+ * Running on http://192.168.1.112:8096 (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 137-190-321
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.

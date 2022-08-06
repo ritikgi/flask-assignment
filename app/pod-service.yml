@@ -1,0 +1,9 @@
+apiVersion: apps/v1
+kind: Service
+metadata:
+  name: my-service
+spec:
+  selector:
+    app: flaskapp
+  ports:
+    -port: 5000
