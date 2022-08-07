@@ -30,4 +30,4 @@ spec:
       - name: "flask-test-app"
         image: "ritik8823/flask-assignment:latest"
         ports:
-        - containerPort: 5000
+        - containerPort: 5000 
